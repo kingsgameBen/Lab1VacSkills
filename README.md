@@ -1,6 +1,6 @@
 # Lab1VacSkills
 
-<font face="逐浪新宋">
+<font face="逐浪新宋" color=#0099ff>
 python相關職缺爬蟲工具 (用於個人學術研究, 非商用工具)
 儲存方式：
 透過1111人力銀行、104人力銀行職缺搜尋python
